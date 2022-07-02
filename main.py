@@ -84,7 +84,7 @@ async def _(client, callback_query):
 			await callback_query.answer(text="Cesaret Sorusu İstediniz", show_alert=False)
 			await client.delete_messages(
 				chat_id=callback_query.message.chat.id,
-				message_ids=callback_query.message.message_id)
+				message_ids=callback_query.message.id)
 			await callback_query.message.reply_text("**{user} Cesaret Sorusu İstedi:** __{c_soru}__".format(user=user.mention, c_soru=c_soru))
 			return
 
