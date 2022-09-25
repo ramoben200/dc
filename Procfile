@@ -1,2 +1,2 @@
 worker: python3 main.py
-# Olum kodları çalma sikerim c/p
+# kodları çal ama yapamazsın çünkü gizli c/p
