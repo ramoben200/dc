@@ -2,7 +2,7 @@
   "name": "Tg Eğlence Bot",
   "description": "Pyrogram İle Yazılmış Bir Eğlence Botu",
   "repository": "https://github.com/Samilx01/n",
-  "logo": "https://i.hizliresim.com/h2uyn65.png",
+  "logo": "https://www.hizliresim.com/82rfkvh.jpg",
   "keywords": ["telegram", "game", "pyrogram","telegram bot"],
   "env": {
      "BOT_TOKEN": {
