@@ -1,4 +1,4 @@
-<img src="https://www.hizliresim.com/dogrulukcesaretbot.png" width="300" height="300">
+<img src="https://www.hizliresim.com/82rfkvh.jpg" width="300" height="300">
 
 
 Telegramda Eğlence Amaçlı Grublarınızda DC Oyun Botuyum
