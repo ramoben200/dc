@@ -1,4 +1,4 @@
-<img src="https://www.hizliresim.com/tfpam2t.jpg" width="300" height="300">
+<img src="https://www.hizliresim.com/tfpam2t.png" width="300" height="300">
 
 
 Telegramda Eğlence Amaçlı Grublarınızda DC Oyun Botuyum
