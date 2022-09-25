@@ -7,6 +7,4 @@ Telegramda Eğlence Amaçlı Grublarınızda DC Oyun Botuyum
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Samilx01/n)
 
-#
 
-Bağış Yapmak İçin [TIKLA](https://telegra.ph/Ba%C4%9F%C4%B1%C5%9F-04-29)
